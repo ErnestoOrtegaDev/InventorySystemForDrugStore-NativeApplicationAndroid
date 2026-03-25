@@ -45,7 +45,6 @@ FarmaVida es una aplicación móvil moderna desarrollada en Android nativo con *
 | :---: | :---: | :---: | :---: |
 | ![Home](https://via.placeholder.com/150) | ![Inventario](https://via.placeholder.com/150) | ![Detalles](https://via.placeholder.com/150) | ![Search](https://via.placeholder.com/150) |
 
-*(Sugerencia: Reemplaza estos placeholders con las capturas reales de tu app en GitHub)*
 
 ---
 
